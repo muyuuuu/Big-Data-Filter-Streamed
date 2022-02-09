@@ -22,4 +22,5 @@
 这个文件夹中是完整的示例。
 
 - `ParseLimitation` 手动添加限制或处理条件即可
-- `go run flow.go` 执行，一闪而过
+- `go run flow.go` 约束较小的时候执行，一闪而过
+- `go run multi-flow.go` 约束较多时，多个限制并发执行
